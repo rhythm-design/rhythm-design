@@ -93,6 +93,8 @@ __Check out my GitHub repository:__
 </a>
 </div>
 
+<img width=100% height=40% src="https://leetcard.jacoblin.cool/rhythm_varshney?theme=dark&font=Play&ext=heatmap" />
+
 ---------------------------------------------------------------------------------------------------------------------
 
 
