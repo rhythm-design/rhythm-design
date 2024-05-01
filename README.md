@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - :monocle_face: I'm interested in Java coding, frontend web development, backend development
 - :sunglasses: My quote is **_"Wherever life plants me, I will bloom with grace"_**
 - :books: I love to learn and build something new, productive, innovative and creative.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/163-8rfxj4b4wcB1kLY8wOi2C8oBfVpLl/view?usp=share_link).
+- :thinking: Here is [MY RESUME](https://drive.google.com/file/d/163-8rfxj4b4wcB1kLY8wOi2C8oBfVpLl/view?usp=share_link).
 
 <br />
 
